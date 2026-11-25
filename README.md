@@ -75,8 +75,3 @@ I'm open to internships, freelance web work and collaborations on education tech
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kiha-dev&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="GitHub stats" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kiha-dev&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
-
-## Contact
- 
-<p align="left">
-</p>
