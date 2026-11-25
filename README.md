@@ -79,5 +79,4 @@ I'm open to internships, freelance web work and collaborations on education tech
 ## Contact
  
 <p align="left">
-<a href="https://x.com/Kiha_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" height="30" width="40" /></a>
 </p>
